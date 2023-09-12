@@ -1,0 +1,11 @@
+/.idea
+/.settings
+/bin
+/classes
+/downloads
+.classpath
+.project
+error.png
+FileTransmitter.iml
+log.txt
+out
